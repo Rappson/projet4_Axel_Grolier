@@ -1,2 +1,2 @@
-# projet4_Axel_Grolier
-correction du site la chouette agence
+# P4_Axel_Grolier
+Version numéro 2 du site La Chouette Agence
